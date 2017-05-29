@@ -1,0 +1,3 @@
+devserver: npm run start
+tsserver: npm run watch
+assets: react-native run-android
